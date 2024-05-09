@@ -9,13 +9,13 @@ body {
 }
 
 .page-header {
-    background-color: #9b0000;
+    background-color: #e90d0d;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ebe59b;
+    color: #c70a0a;
     font-size: 80pt;
     text-decoration: none;
 }
@@ -41,7 +41,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #790000;
+    color: #f8e8a2;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
