@@ -9,13 +9,13 @@ body {
 }
 
 .page-header {
-    background-color: #e90d0d;
+    background-color: #cc1313;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #c70a0a;
+    color: #fafc8d;
     font-size: 80pt;
     text-decoration: none;
 }
